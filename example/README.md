@@ -1,6 +1,6 @@
-# flutter_mapbox_navigation_lite_example
+# flutter_mapbox_navigation_example
 
-Demonstrates how to use the flutter_mapbox_navigation_lite plugin.
+Demonstrates how to use the flutter_mapbox_navigation plugin.
 
 ## Getting Started
 
